@@ -30,7 +30,7 @@ The **MDP Game** is an interactive implementation of a grid-based Markov Decisio
    ```
 3. Open `index.html` in any modern web browser to run the game.
 
-##OR
+## OR
 
 Open this link: https://prateekg93.github.io/MDP-Game/
 
